@@ -249,4 +249,4 @@ The API returns consistent error responses in the following format:
 
 ## License
 
-This project is licensed under the ISC License.
+This project is for educational purposes and is open source.
